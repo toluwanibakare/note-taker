@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<g transform="translate(256 256) scale(0.6) translate(-256 -256)">
+<!-- note card with folded corner -->
+  <path d="M140 92h176l76 76v220a32 32 0 0 1-32 32H140a32 32 0 0 1-32-32V124a32 32 0 0 1 32-32z" fill="#f8fafc"/>
+  <path d="M316 92l76 76h-44a32 32 0 0 1-32-32z" fill="#c7d2fe"/>
+  <!-- waveform -->
+  <g fill="#4f46e5">
+    <rect x="148" y="236" width="20" height="40" rx="10"/>
+    <rect x="184" y="212" width="20" height="88" rx="10"/>
+    <rect x="220" y="188" width="20" height="136" rx="10"/>
+    <rect x="256" y="224" width="20" height="64" rx="10"/>
+    <rect x="292" y="200" width="20" height="112" rx="10"/>
+    <rect x="328" y="232" width="20" height="48" rx="10"/>
+  </g>
+  <!-- note lines -->
+  <g fill="#a5b4fc">
+    <rect x="148" y="352" width="216" height="16" rx="8"/>
+    <rect x="148" y="386" width="140" height="16" rx="8"/>
+  </g>
+</g>
+</svg>
