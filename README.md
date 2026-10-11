@@ -1,6 +1,6 @@
 # Note Taker
 
-Note Taker (version 2.0) is a local desktop app for taking meeting notes. Version 1.0 was originally built by Tunde Alao before then modified by TMB. It records your microphone and the audio playing on your computer (optionally the screen too), saves everything on your machine, and sends the audio to [Gladia](https://gladia.io) to get a transcript with speaker labels and a summary.
+Note Taker (version 2.0) is a local desktop app for taking meeting notes. Version 1.0 was originally built by [Tunde Alao](https://github.com/tunde-alao) before then modified by [TMB](https://tmb.it.com). It records your microphone and the audio playing on your computer (optionally the screen too), saves everything on your machine, and sends the audio to [Gladia](https://gladia.io) to get a transcript with speaker labels and a summary.
 
 Built with Electron, React, TypeScript and Tailwind/shadcn, using electron-vite and electron-builder.
 
